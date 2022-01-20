@@ -36,4 +36,13 @@ Reference data for researchers at MLC - Crees Foundation.
 - **(2018) Whitworth et. al** - Are We Using the Most Appropriate Methodologies to Assess the Sensitivity of Rainforest Biodiversity to Habitat Disturbance. - [doi](https://journals.sagepub.com/doi/full/10.1177/1940082918788445) - [download](https://drive.google.com/file/d/12KwIG72V8I6yAp56kQifCnn43dKsh8-F/view?usp=sharing)
 
 ## Fieldguides
+
 ### Amphibians
+- **(2014) Whitworth & Villacampa** - Amphibians of the Manu Learning Centre - [download](https://drive.google.com/file/d/1w0PzLv57lLWCclvTO1nIqR0jr7IPB3L2/view?usp=sharing)
+
+### Reptiles
+- **(2014) Whitworth & Villacampa** - Reptiles of the Manu Learning Centre - [download](https://drive.google.com/file/d/13behgX6PGpZ49UiByeswDi41yGmKvYwW/view?usp=sharing) 
+
+### Plants/Seeds/Trees
+- **(2016) Pillco Huarcaya et.al** - Foods eaten in a regenerating rainforest by the Endangered woolly monkey (*Lagothrix cana*) - [download](https://drive.google.com/file/d/10T5EhPoPYYaKRCzs0pjDLq0d_02Zcprh/view?usp=sharing)
+
