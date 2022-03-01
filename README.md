@@ -38,11 +38,11 @@ Reference data for researchers at MLC - Crees Foundation.
 ## Fieldguides
 
 ### Amphibians
-- **(2014) Whitworth & Villacampa** - Amphibians of the Manu Learning Centre - [download](https://drive.google.com/file/d/1w0PzLv57lLWCclvTO1nIqR0jr7IPB3L2/view?usp=sharing)
+- **(2014) Whitworth & Villacampa** - Amphibians of the Manu Learning Centre - [download](https://drive.google.com/file/d/1jkrB75fHsSjvkijWpQYQQwfOJLm0_lok/view?usp=sharing)
 
 ### Reptiles
-- **(2014) Whitworth & Villacampa** - Reptiles of the Manu Learning Centre - [download](https://drive.google.com/file/d/13behgX6PGpZ49UiByeswDi41yGmKvYwW/view?usp=sharing) 
+- **(2014) Whitworth & Villacampa** - Reptiles of the Manu Learning Centre - [download](https://drive.google.com/file/d/1NTwuGAENWkaA0tWGxVjq4Y6mY8hJaJ3p/view?usp=sharing) 
 
 ### Plants/Seeds/Trees
-- **(2016) Pillco Huarcaya et.al** - Foods eaten in a regenerating rainforest by the Endangered woolly monkey (*Lagothrix cana*) - [download](https://drive.google.com/file/d/10T5EhPoPYYaKRCzs0pjDLq0d_02Zcprh/view?usp=sharing)
+- **(2016) Pillco Huarcaya et.al** - Foods eaten in a regenerating rainforest by the Endangered woolly monkey (*Lagothrix cana*) - [download](https://drive.google.com/file/d/1vjZWzmyQMlp-LlNopgJLf80q5YZt6iM7/view?usp=sharing)
 

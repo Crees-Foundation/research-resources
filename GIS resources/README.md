@@ -8,13 +8,20 @@
 	
 ---
 
-1. `crees-baseMap.gpkg` - MLC base map, contains:
+1. `Manu-Learning-Centre.gpkg`, contains:
 
-	| **Layer name**	|		**Type**		|
+	| **Layer name**	|		**Type**	|
 	| ----------- | ----------- |
 	| MLC_area    | Point	|
 	| MLC_borderLine  | MultiPolygon |
 	| MLC_foresTypes	| MultiLineString	|
-	|	MLC_streams			|	MultiPolygon	|
-	|	MLC_trails			|	MultiLineString	|
-	|	MLC_interestPoints	|	MultiLineString	|
+	| MLC_streams		|	MultiPolygon	|
+	| MLC_trails		|	MultiLineString	|
+	| MLC_interestPoints	|	MultiLineString	|
+	
+2. `Romero-Learning-Centre.gpkg`, contains:
+
+	| **Layer name**	|		**Type**	|
+	| ----------- | ----------- |
+	| Romero Rainfortest Lodge    | Point	|
+	| Romero Trails  | MultiPolygon |
