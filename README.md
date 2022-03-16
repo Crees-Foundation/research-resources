@@ -39,9 +39,13 @@ Reference data for researchers at MLC - Crees Foundation.
 
 ### Amphibians
 - **(2014) Whitworth & Villacampa** - Amphibians of the Manu Learning Centre - [download](https://drive.google.com/file/d/1jkrB75fHsSjvkijWpQYQQwfOJLm0_lok/view?usp=sharing)
+- **(2017) Villacampa, Serrano-Rojas & Whitworth** - Amphibians of the Manu Learnign Centre and other areas in the Manu Region - [download](https://drive.google.com/file/d/1cMBmRMBD4ghF1H6lqV3n8pYndhvZVndp/view?usp=sharing)
 
 ### Reptiles
 - **(2014) Whitworth & Villacampa** - Reptiles of the Manu Learning Centre - [download](https://drive.google.com/file/d/1NTwuGAENWkaA0tWGxVjq4Y6mY8hJaJ3p/view?usp=sharing) 
+
+### Birds
+- **(2018) Gartenstein** - Hummingbirds of the MLC garden - [download](https://drive.google.com/file/d/1ky-I2BV9ZX8KoNYAMBjCq9Bx2THprJZG/view?usp=sharing)
 
 ### Plants/Seeds/Trees
 - **(2016) Pillco Huarcaya et.al** - Foods eaten in a regenerating rainforest by the Endangered woolly monkey (*Lagothrix cana*) - [download](https://drive.google.com/file/d/1vjZWzmyQMlp-LlNopgJLf80q5YZt6iM7/view?usp=sharing)
