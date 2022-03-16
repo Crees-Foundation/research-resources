@@ -50,3 +50,6 @@ Reference data for researchers at MLC - Crees Foundation.
 ### Plants/Seeds/Trees
 - **(2016) Pillco Huarcaya et.al** - Foods eaten in a regenerating rainforest by the Endangered woolly monkey (*Lagothrix cana*) - [download](https://drive.google.com/file/d/1vjZWzmyQMlp-LlNopgJLf80q5YZt6iM7/view?usp=sharing)
 
+## Children Stories
+- **(2017) Carlos Arevalo** - ABUN - Un encuentro inesperado. - [download](https://drive.google.com/file/d/1j7XnmTp9VyuBQQkcb7XJpnPwj7fXRBeI/view?usp=sharing)
+- **(2017) Carlos Arevalo** - ABUN - Shihuemoy Una verdadera amistad. - [download](https://drive.google.com/file/d/1cnqncd60jyAB8S2cudD-Tl7Ysr7A5Mk8/view?usp=sharing)
